@@ -1,7 +1,7 @@
 const grid = document.getElementById('grid')
 let lockGame = false
 //Set test mode to true if you want see mines
-let testMode = true
+let testMode = false
 generateGrid()
 
 //Generate 10 x 10
